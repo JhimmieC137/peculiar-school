@@ -4,28 +4,28 @@ const heroImg = 'https://images.unsplash.com/photo-1473649085228-583485e6e4d7?fm
 const buildingImg = 'https://images.pexels.com/photos/34162714/pexels-photo-34162714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1';
 const libraryImg = 'https://images.pexels.com/photos/6936134/pexels-photo-6936134.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1';
 
-const staff = [
-  {
-    img: 'https://images.pexels.com/photos/5905751/pexels-photo-5905751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-    name: 'Mrs. Evelyn Okolie',
-    role: 'Principal & Founder',
-  },
-  {
-    img: 'https://images.pexels.com/photos/19379640/pexels-photo-19379640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-    name: 'Mr. Samuel Adebayo',
-    role: 'Head of Academics',
-  },
-  {
-    img: 'https://images.pexels.com/photos/5905956/pexels-photo-5905956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-    name: 'Ms. Grace Chima',
-    role: 'Nursery Coordinator',
-  },
-  {
-    img: 'https://images.pexels.com/photos/8423062/pexels-photo-8423062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-    name: 'Mrs. Joy Ifeoma',
-    role: 'Administrative Head',
-  },
-];
+// const staff = [
+//   {
+//     img: 'https://images.pexels.com/photos/5905751/pexels-photo-5905751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+//     name: 'Mrs. Evelyn Okolie',
+//     role: 'Principal & Founder',
+//   },
+//   {
+//     img: 'https://images.pexels.com/photos/19379640/pexels-photo-19379640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+//     name: 'Mr. Samuel Adebayo',
+//     role: 'Head of Academics',
+//   },
+//   {
+//     img: 'https://images.pexels.com/photos/5905956/pexels-photo-5905956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+//     name: 'Ms. Grace Chima',
+//     role: 'Nursery Coordinator',
+//   },
+//   {
+//     img: 'https://images.pexels.com/photos/8423062/pexels-photo-8423062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+//     name: 'Mrs. Joy Ifeoma',
+//     role: 'Administrative Head',
+//   },
+// ];
 
 export default function AboutUs() {
   return (
