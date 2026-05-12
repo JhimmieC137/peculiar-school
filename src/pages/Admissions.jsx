@@ -229,7 +229,7 @@ export default function Admissions() {
       </section>
 
       {/* Bottom CTAs */}
-      <section className="mt-xl text-center py-lg border-y border-primary/5">
+      {/* <section className="mt-xl text-center py-lg border-y border-primary/5">
         <h3 className="font-headline-lg text-headline-lg text-primary mb-md">Ready to take the first step?</h3>
         <div className="flex flex-col sm:flex-row justify-center gap-md">
           <button className="bg-secondary-container text-on-secondary-container px-lg py-md rounded-lg font-bold flex items-center justify-center gap-base hover:shadow-md transition-all active:scale-95">
@@ -242,7 +242,7 @@ export default function Admissions() {
             <span className="material-symbols-outlined">app_registration</span> Start Application
           </button>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }

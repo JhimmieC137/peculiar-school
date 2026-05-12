@@ -1,4 +1,5 @@
 import { NavLink, Link } from 'react-router-dom';
+import logo from '../assets/logo.svg';
 
 const navLinks = [
   // { to: '/', label: 'Home' },
@@ -10,8 +11,8 @@ export default function Navbar() {
   return (
     <header className="bg-surface border-b border-primary/10 shadow-sm sticky top-0 z-50">
       <nav className="flex justify-between items-center w-full px-lg py-sm max-w-container-max mx-auto">
-        <Link to="/" className="font-display-lg text-headline-md font-bold text-primary">
-          Peculiar Children School
+        <Link to="/" className="flex items-center">
+          <img src={logo} alt="Peculiar Children School" className="h-10 w-auto" />
         </Link>
 
         <div className="hidden md:flex items-center gap-md">

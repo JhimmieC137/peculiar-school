@@ -137,7 +137,7 @@ export default function AboutUs() {
       </section>
 
       {/* Staff */}
-      <section className="py-xl max-w-container-max mx-auto px-lg">
+      {/* <section className="py-xl max-w-container-max mx-auto px-lg">
         <div className="text-center mb-xl">
           <h2 className="font-display-lg text-headline-lg text-primary mb-sm">Our Dedicated Staff</h2>
           <p className="text-on-surface-variant max-w-2xl mx-auto">Led by passionate educators who treat every student with the love and attention of a mother.</p>
@@ -156,7 +156,7 @@ export default function AboutUs() {
             </div>
           ))}
         </div>
-      </section>
+      </section> */}
 
       {/* CTA */}
       <section className="py-xl max-w-container-max mx-auto px-lg">

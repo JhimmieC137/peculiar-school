@@ -138,11 +138,11 @@ export default function Home() {
         <div className="max-w-container-max mx-auto px-lg flex flex-col md:flex-row justify-between items-center gap-lg">
           <div className="flex items-center gap-md text-on-primary">
             <div className="w-12 h-12 bg-secondary-container rounded-full flex items-center justify-center text-primary">
-              <span className="material-symbols-outlined">call</span>
+              <span className="material-symbols-outlined">mail</span>
             </div>
             <div>
-              <p className="text-sm font-label-bold opacity-80 uppercase tracking-wide">Call us today</p>
-              <p className="text-headline-md font-bold">08069142820, 08030939092</p>
+              <p className="text-sm font-label-bold opacity-80 uppercase tracking-wide">Email us</p>
+              <p className="text-headline-md font-bold">info@peculiarchildrenschool.com</p>
             </div>
           </div>
           <div className="flex items-center gap-md text-on-primary">
